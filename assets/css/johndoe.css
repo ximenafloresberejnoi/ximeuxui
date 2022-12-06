@@ -168,7 +168,7 @@ a {
 }
 
 a:hover {
-  color: #f51330;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -2778,13 +2778,13 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #f63750;
-  border-color: #f62b45;
+  color: #17CED4;
+  background-color: #ffffff;
+  border-color: #17CED4;
 }
 
 .btn-primary:focus, .btn-primary.focus {
-  box-shadow: 0 0 0 0.2rem rgba(249, 116, 133, 0.5);
+  box-shadow: 0 0 0 0.2rem #17CED4;
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
@@ -3215,7 +3215,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger:focus, .btn-outline-danger.focus {
-  box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.5);
+  box-shadow: 0 0 0 0.2rem;
 }
 
 .btn-outline-danger.disabled, .btn-outline-danger:disabled {
@@ -3232,7 +3232,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-danger:not(:disabled):not(.disabled):active:focus, .btn-outline-danger:not(:disabled):not(.disabled).active:focus,
 .show > .btn-outline-danger.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.5);
+  box-shadow: 0 0 0 0.2rem;
 }
 
 .btn-outline-light {
@@ -10990,7 +10990,7 @@ p {
 }
 
 .icon-xl {
-  font-size: 65px;
+  font-size: 50px;
 }
 
 .info {
